@@ -8,7 +8,7 @@
 - Clean and minimal design.
 - Easily integrates into any project requiring dynamic QR code generation.
 
-#Additional Resources
+###Additional Resources
 •Explore the [Codemun YouTube channel ](https://youtu.be/TxyWL_f9WTs?si=cVzuU38Fgud1NaP0_)for coding tutorials.
 
 •Follow Saurav on Instagram  for updates and tips.
